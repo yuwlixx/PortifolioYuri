@@ -26,7 +26,7 @@ margin-top: 0px;
 }
 
 .texto_ilustracao{
-  margin-top:70px;
+  margin-top: 39px;
   width: 1000px;
   height: 250px;
   margin-left: 300px;
@@ -34,13 +34,14 @@ margin-top: 0px;
 }
 
 .nav_imagens {
-    width:850px;
+    width:1200x;
     height:300px;
     position: absolute;
     margin-left:260px;
     
 }
 .nav_li_imagens {
+    width:1200x;
     display: inline-block;
     margin-right:10px;
 }
