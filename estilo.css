@@ -26,22 +26,22 @@ margin-top: 0px;
 }
 
 .texto_ilustracao{
-  margin-top: 39px;
-  width: 1000px;
+  margin-top:70px;
+  width: 1150px;
   height: 250px;
-  margin-left: 300px;
+  margin-left: 250px;
+  margin-top: 48px;
   
 }
 
 .nav_imagens {
-    width:1200x;
+    width:850px;
     height:300px;
     position: absolute;
     margin-left:260px;
     
 }
 .nav_li_imagens {
-    width:1200x;
     display: inline-block;
     margin-right:10px;
 }
@@ -60,9 +60,9 @@ text-align:left;
 }
 #texto_DE{
   padding-top:0px;
-  width: 1000px;
+  width: 1300px;
   height: 250px;
-  margin-left: 300px;
+  margin-left: 200px;
 }
 
 #links{
