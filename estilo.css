@@ -1,0 +1,62 @@
+.body{
+margin:0px;
+}
+.fundo{
+  margin: 0px;
+  background-image: url("fundo.png");
+  background-repeat: no-repeat;
+  width: 1366px;
+  height: 823px;
+}
+#texto_descrição{
+  margin-top: 0px;
+  margin-left: 0px;
+  width: 175px;
+  padding-left: 33px;
+  height: 120px;
+  padding-top: 250px;
+  float: left;
+}
+
+.descrição{
+  font-family: "courier-prime", monospace;
+  font-weight: 700;
+  font-size: 20px;
+font-style: normal;
+text-align: center;
+color: aliceblue;
+}
+
+#texto_ilustracao{
+  padding-right: 837px;
+  padding-left: 0px;
+  padding-top: 49px;
+  width: 245px;
+  height: 40px;
+  float: right;
+}
+
+.FONTE_TITULO{
+  font-family: "courier-prime", monospace;
+font-size: 36px;
+font-weight: 700;
+font-style: normal;
+text-align: center;
+margin: 0px;
+color: aliceblue;
+}
+#texto_DE{
+  padding-right: 665px;
+  padding-left: 0px;
+  padding-top: 342px;
+  width: 385px;
+  height: 40px;
+  float: right;
+}
+
+#links{
+  padding-top: 200px;
+  padding-left: 100px;
+  height: 50px;
+  width: 50px;
+}
