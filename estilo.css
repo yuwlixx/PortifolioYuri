@@ -1,7 +1,4 @@
 .body{
-margin:0px;
-}
-.fundo{
   margin: 0px;
   background-image: url("fundo.png");
   background-repeat: no-repeat;
@@ -19,51 +16,84 @@ margin:0px;
 }
 
 .descrição{
-  font-family: "courier-prime", monospace;
-  font-weight: 700;
-  font-size: 20px;
+font-family: "courier-prime", monospace;
+font-weight: 700;
+font-size: 20px;
 font-style: normal;
 text-align: center;
 color: aliceblue;
+margin-top: 0px;
 }
 
-#texto_ilustracao{
-  padding-right: 837px;
-  padding-left: 0px;
-  padding-top: 49px;
-  width: 245px;
-  height: 40px;
-  float: right;
+.texto_ilustracao{
+  margin-top:70px;
+  width: 1000px;
+  height: 250px;
+  margin-left: 300px;
+  
+}
+
+.nav_imagens {
+    width:850px;
+    height:300px;
+    position: absolute;
+    margin-left:260px;
+    
+}
+.nav_li_imagens {
+    display: inline-block;
+    margin-right:10px;
 }
 
 .FONTE_TITULO{
-  font-family: "courier-prime", monospace;
+font-family: "courier-prime", monospace;
 font-size: 36px;
 font-weight: 700;
 font-style: normal;
 text-align: center;
-margin: 0px;
+margin-top: 45px;
+margin-left: 290px;
 color: aliceblue;
+text-align:left;
+
 }
 #texto_DE{
-  padding-right: 665px;
-  padding-left: 0px;
-  padding-top: 342px;
-  width: 385px;
-  height: 40px;
-  float: right;
+  padding-top:0px;
+  width: 1000px;
+  height: 250px;
+  margin-left: 300px;
 }
 
-#links img {
-  float: left;
-  padding-top: 430px;
-  width: 50px;
+#links{
+  padding-top: 200px;
+  padding-left: 100px;
   height: 50px;
-  transition: transform 0.3s ease, border 0.3s ease, box-shadow 0.3s ease;
+  width: 50px;
+}
+.logo{
+    margin-left:66px;
+    margin-top:0px;
 }
 
-#links img:hover {
-  border: 2px solid rgba(255, 255, 255, 0.6);
-  transform: translate(-3px, -3px);
-  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.6);
+.img{
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+    unicode-bidi: isolate;
+}
+#FONTE_TITULO2{
+  font-family: "courier-prime", monospace;
+  font-size: 36px;
+  font-weight: 700;
+  font-style: normal;
+  text-align: center;
+  margin-left: 330px;
+  color: aliceblue;
+  text-align:left;
+  margin-top:15px;
+  
 }
