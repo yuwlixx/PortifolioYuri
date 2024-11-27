@@ -35,7 +35,7 @@ margin-top: 0px;
 }
 
 .nav_imagens {
-    width:850px;
+    width:1050px;
     height:300px;
     position: absolute;
     margin-left:260px;
@@ -61,7 +61,7 @@ text-align:left;
 #texto_DE{
   padding-top:0px;
   width: 1300px;
-  height: 250px;
+  height: 350px;
   margin-left: 200px;
 }
 
@@ -76,16 +76,8 @@ text-align:left;
     margin-top:0px;
 }
 
-.img{
-    display: block;
-    list-style-type: disc;
-    margin-block-start: 1em;
-    margin-block-end: 1em;
-    margin-inline-start: 0px;
-    margin-inline-end: 0px;
-    padding-inline-start: 40px;
-    unicode-bidi: isolate;
-}
+
+
 #FONTE_TITULO2{
   font-family: "courier-prime", monospace;
   font-size: 36px;
